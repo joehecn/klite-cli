@@ -1,4 +1,8 @@
 # klite-cli
+## 首页
+
+2. 首页每屏滚动效果
+参考：http://www.paidok.com.cn/cn/index.php 
 
 ## Project setup
 ```
